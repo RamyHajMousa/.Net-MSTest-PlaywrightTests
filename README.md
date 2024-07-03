@@ -1,7 +1,5 @@
 # PlaywrightTests
 
-# PlaywrightTests
-
 ## Brief Description
 This project is a collection of automated tests using Playwright, a powerful end-to-end testing framework for web applications. The repository contains test scripts written to perform various checks and validations on web elements, demonstrating the implementation of Playwright for quality assurance purposes.
 
